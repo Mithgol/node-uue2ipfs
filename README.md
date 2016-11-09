@@ -20,6 +20,8 @@ You may visit https://github.com/Mithgol/node-uue2ipfs#readme occasionally to r
 
 ## Testing uue2ipfs
 
+[![(build testing status)](https://img.shields.io/travis/Mithgol/node-uue2ipfs/master.svg?style=plastic)](https://travis-ci.org/Mithgol/node-uue2ipfs)
+
 It is necessary to install [JSHint](http://jshint.com/) for testing.
 
 * You may install JSHint globally (`npm install jshint -g`) or locally (`npm install jshint` in the directory of uue2ipfs).
