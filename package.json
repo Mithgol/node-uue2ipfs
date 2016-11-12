@@ -1,7 +1,7 @@
 {
 "name": "uue2ipfs",
 "main": "uue2ipfs.js",
-"version": "0.0.1",
+"version": "0.1.0",
 "description": "Decodes files from UUE codes, publishes them in IPFS.",
 "keywords": ["UUE", "uuencode", "uudecode", "uuencoding", "uudecoding", "IPFS"],
 "author": { "name": "Mithgol the Webmaster" },
