@@ -6,8 +6,6 @@ This module's name is derived from loosely abbreviated words “UUE to IPFS”
 
 This module is written in JavaScript and requires [Node.js](http://nodejs.org/) to run. Some ECMAScript 2016 features are used, and thus a relatively recent Node.js (version 6.8.1 or newer) is required. This module is tested against the latest stable version of Node.js.
 
-This module is currently in an early phase of its development and thus does not have the desired level of feature completeness.
-
 ## Installing uue2ipfs
 
 [![(npm package version)](https://nodei.co/npm/uue2ipfs.png?downloads=true&downloadRank=true)](https://npmjs.org/package/uue2ipfs)
