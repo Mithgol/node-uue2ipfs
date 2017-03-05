@@ -4,7 +4,7 @@ This module (`uue2ipfs`) finds [uuencoded](http://en.wikipedia.org/wiki/Uuencodi
 
 This module's name is derived from loosely abbreviated words “UUE to IPFS” after a common `.UUE` suffix for Fidonet echomail areas where uuencoded files are posted (sometimes the results of such encoding are also known as “UUE codes”).
 
-This module is written in JavaScript and requires [Node.js](http://nodejs.org/) to run. Some ECMAScript 2016 features are used, and thus a relatively recent Node.js (version 6.4.0 or newer) is required. This module is tested against the latest stable version of Node.js.
+This module is written in JavaScript and requires [Node.js](http://nodejs.org/) to run. Some ECMAScript 2016 features are used, and thus a relatively recent Node.js (version 6.0.0 or newer) is required. This module is tested against the latest stable version of Node.js.
 
 ## Installing uue2ipfs
 
