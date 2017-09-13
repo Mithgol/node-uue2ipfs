@@ -21,7 +21,7 @@ var imgUUE2IPFS = (msgText, converter, options, cbDone) => {
 
          if( Array.isArray(options.filterMIME) ){
             if(!( // determine the MIME type (by looking at the filename)
-               options.filterMIME.includes( MIME.lookup(nextChunk.name) )
+               options.filterMIME.includes( MIME.getType(nextChunk.name) )
             )) return setImmediate(() =>
                doneChunk(null, nextChunk.source) // UUE; but won't convert it
             );
